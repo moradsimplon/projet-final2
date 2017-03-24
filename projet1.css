@@ -16,3 +16,17 @@ width: 80px;}
 header h1 {
   padding-top: 5%;
 }
+section{
+  background-color: rgba(114, 36, 230, 0.81)
+
+}
+.semaine {
+  text-align: left;
+  text-decoration: underline;
+  padding-left: 30px ;
+  background: url(fuck.ico) no-repeat 0%;
+}
+div{
+  display: inline-block;
+  background-color: rgb(208, 104, 76)
+}
