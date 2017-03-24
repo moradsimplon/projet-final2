@@ -54,6 +54,8 @@ header h1 {
 li{
   text-decoration: line-through;
   font-family: arial;
+  padding-left: 15px;
+  list-style-image: url(simpson5.png);
 }
 a {
   font-family: arial;
@@ -67,7 +69,7 @@ a {
         border:solid 1px rgb(17, 173, 33);
         background:rgb(17, 173, 33);
         text-align:center;
-        
+
 
         -webkit-transition: all 0.1s;
         -moz-transition: all 0.1s;
