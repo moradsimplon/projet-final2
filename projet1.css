@@ -1,0 +1,18 @@
+header{
+  color:rgb(223, 219, 221);
+  text-align: center;
+  text-shadow: 2px;
+  font-weight: bold;
+  font-size: 80%;
+  height: 200px;
+margin: 40px;
+  background-color: rgba(10, 108, 180, 0.99);
+  font-family: arial;
+
+}
+img{
+height: 80px;
+width: 80px;}
+header h1 {
+  padding-top: 5%;
+}
